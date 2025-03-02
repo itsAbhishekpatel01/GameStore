@@ -109,8 +109,45 @@ The requests are processed in a thread-safe manner.
 # What is meaning of "GameDto?" ?
 It a null level object i.e. it can have GameDto object or null value.
 
+## Version 1.0.0
+- Initial version of the project
+- Created the project structure
+- Added the Game model
+- Added the GameDto
+- Added the InMemoryGameRepository
+- Added the GameService
+- Added the GameController
+- Added the GET, POST, PUT, DELETE endpoints
+- Added the REST Client file
+
+# Why do we use Extension methods?
+To extend the functionality of a class without modifying the class itself.
+To add new methods to a class without changing the class itself.
+To make the code more readable and maintainable.
 
 
+# We do write "/games" most of the time in the apis, why not to make it a constant?
+We can use MapGroup() method to group the APIs together.
+All of the APIs that are part of the same group start with the same URL segment.
+To make this work replace app to group and also return the group object.
+Also change WebApplication to RouteGroupBuilder.
 
+# How to validate the data received in the request?
+We can check manually if the data is valid or not but it is not a good practice.
+We are using Data Annotations to validate the data received in the request.
+We give data annotations with [] above the property.
+We will use a external dependency called MinimalApis.Extensions to validate the data received in the request.
+
+# What is Nuget ?
+NuGet is a package manager for .NET that is used to install, update, and remove packages in a .NET project.
+It is used to manage the dependencies of a .NET project.
+
+## Version 1.1.0 Completed
+- Added the Extension methods
+- Added the GameMapper
+- Added the GameValidator
+- Added the Data Annotations
+- Added the MinimalApis.Extensions package
+- Added the Validation middleware
 
 

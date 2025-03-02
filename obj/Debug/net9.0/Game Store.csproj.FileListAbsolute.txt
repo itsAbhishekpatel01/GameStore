@@ -26,3 +26,10 @@
 /Volumes/Data/Developement/DOT NET/Game Store/obj/Debug/net9.0/Game Store.pdb
 /Volumes/Data/Developement/DOT NET/Game Store/obj/Debug/net9.0/Game Store.genruntimeconfig.cache
 /Volumes/Data/Developement/DOT NET/Game Store/obj/Debug/net9.0/ref/Game Store.dll
+/Volumes/Data/Developement/DOT NET/Game Store/obj/Debug/net9.0/Game Store.sourcelink.json
+/Volumes/Data/Developement/DOT NET/Game Store/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Volumes/Data/Developement/DOT NET/Game Store/bin/Debug/net9.0/MinimalApis.Extensions.dll
+/Volumes/Data/Developement/DOT NET/Game Store/bin/Debug/net9.0/MiniValidation.dll
+/Volumes/Data/Developement/DOT NET/Game Store/obj/Debug/net9.0/Game Store.csproj.AssemblyReference.cache
+/Volumes/Data/Developement/DOT NET/Game Store/obj/Debug/net9.0/Game Store.MvcApplicationPartsAssemblyInfo.cs
+/Volumes/Data/Developement/DOT NET/Game Store/obj/Debug/net9.0/Game Store.csproj.Up2Date
