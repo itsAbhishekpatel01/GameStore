@@ -1,0 +1,28 @@
+/Volumes/Data/Developement/DOT NET/Game Store/bin/Debug/net9.0/appsettings.Development.json
+/Volumes/Data/Developement/DOT NET/Game Store/bin/Debug/net9.0/appsettings.json
+/Volumes/Data/Developement/DOT NET/Game Store/bin/Debug/net9.0/Game Store.staticwebassets.endpoints.json
+/Volumes/Data/Developement/DOT NET/Game Store/bin/Debug/net9.0/Game Store
+/Volumes/Data/Developement/DOT NET/Game Store/bin/Debug/net9.0/Game Store.deps.json
+/Volumes/Data/Developement/DOT NET/Game Store/bin/Debug/net9.0/Game Store.runtimeconfig.json
+/Volumes/Data/Developement/DOT NET/Game Store/bin/Debug/net9.0/Game Store.dll
+/Volumes/Data/Developement/DOT NET/Game Store/bin/Debug/net9.0/Game Store.pdb
+/Volumes/Data/Developement/DOT NET/Game Store/obj/Debug/net9.0/Game Store.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Data/Developement/DOT NET/Game Store/obj/Debug/net9.0/Game Store.AssemblyInfoInputs.cache
+/Volumes/Data/Developement/DOT NET/Game Store/obj/Debug/net9.0/Game Store.AssemblyInfo.cs
+/Volumes/Data/Developement/DOT NET/Game Store/obj/Debug/net9.0/Game Store.csproj.CoreCompileInputs.cache
+/Volumes/Data/Developement/DOT NET/Game Store/obj/Debug/net9.0/Game Store.MvcApplicationPartsAssemblyInfo.cache
+/Volumes/Data/Developement/DOT NET/Game Store/obj/Debug/net9.0/scopedcss/bundle/Game Store.styles.css
+/Volumes/Data/Developement/DOT NET/Game Store/obj/Debug/net9.0/staticwebassets.build.json
+/Volumes/Data/Developement/DOT NET/Game Store/obj/Debug/net9.0/staticwebassets.development.json
+/Volumes/Data/Developement/DOT NET/Game Store/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Volumes/Data/Developement/DOT NET/Game Store/obj/Debug/net9.0/staticwebassets/msbuild.Game Store.Microsoft.AspNetCore.StaticWebAssets.props
+/Volumes/Data/Developement/DOT NET/Game Store/obj/Debug/net9.0/staticwebassets/msbuild.Game Store.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Volumes/Data/Developement/DOT NET/Game Store/obj/Debug/net9.0/staticwebassets/msbuild.build.Game Store.props
+/Volumes/Data/Developement/DOT NET/Game Store/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.Game Store.props
+/Volumes/Data/Developement/DOT NET/Game Store/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.Game Store.props
+/Volumes/Data/Developement/DOT NET/Game Store/obj/Debug/net9.0/staticwebassets.pack.json
+/Volumes/Data/Developement/DOT NET/Game Store/obj/Debug/net9.0/Game Store.dll
+/Volumes/Data/Developement/DOT NET/Game Store/obj/Debug/net9.0/refint/Game Store.dll
+/Volumes/Data/Developement/DOT NET/Game Store/obj/Debug/net9.0/Game Store.pdb
+/Volumes/Data/Developement/DOT NET/Game Store/obj/Debug/net9.0/Game Store.genruntimeconfig.cache
+/Volumes/Data/Developement/DOT NET/Game Store/obj/Debug/net9.0/ref/Game Store.dll

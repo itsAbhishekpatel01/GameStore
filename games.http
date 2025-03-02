@@ -1,0 +1,34 @@
+###
+GET http://localhost:5137/games/
+
+###
+GET http://localhost:5137/games/30
+
+###
+POST http://localhost:5137/games
+Content-Type: application/json
+
+{
+    "name" : "Pokemon",
+    "genre" : "Adventure",
+    "price" : 20.08,
+    "releaseDate" : "2011-11-18"
+}
+
+### 
+PUT http://localhost:5137/games/30
+Content-Type: application/json
+
+{
+  "name": "Super Mario Bros.",
+  "genre": "Platformer",
+  "price": 14.99,
+  "releaseDate": "2003-11-29"
+}
+
+###
+DELETE  http://localhost:5137/games/3
+
+
+
+
