@@ -2,26 +2,26 @@
 GET http://localhost:5137/games/
 
 ###
-GET http://localhost:5137/games/30
+GET http://localhost:5137/games/3
 
 ###
 POST http://localhost:5137/games
 Content-Type: application/json
 
 {
-    "name" : "Pokemon",
-    "genre" : "Adventure",
+    "name" : "Subway Surfers",
+    "genreId" : 2,
     "price" : 20.08,
-    "releaseDate" : "2011-11-18"
+    "releaseDate" : "2016-11-18"
 }
 
 ### 
-PUT http://localhost:5137/games/30
+PUT http://localhost:5137/games/3
 Content-Type: application/json
 
 {
   "name": "Super Mario Bros.",
-  "genre": "Platformer",
+  "genreId": 1,
   "price": 14.99,
   "releaseDate": "2003-11-29"
 }
